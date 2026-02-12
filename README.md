@@ -1,3 +1,3 @@
 # lab-06
-Danrui Tsai
+Name: Danrui Tsai
 CCID: danrui
